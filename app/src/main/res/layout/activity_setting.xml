@@ -172,6 +172,34 @@
                 app:subtitle="建议或反馈" />
 
             <com.xiaoyv.common.widget.setting.SettingItemView
+                android:id="@+id/setting_donation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="?attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:text="投食🍚" />
+
+            <com.xiaoyv.common.widget.setting.SettingItemView
+                android:id="@+id/setting_donation_user"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="?attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:text="赞助者" />
+
+            <com.xiaoyv.common.widget.setting.SettingItemView
+                android:id="@+id/setting_group"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="?attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:text="QQ 交流群"
+                app:subtitle="671395625" />
+
+            <com.xiaoyv.common.widget.setting.SettingItemView
                 android:id="@+id/setting_github"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
