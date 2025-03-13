@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace = "com.xiaoyv.bangumi"
+    namespace = "com.neko.bangumi"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.xiaoyv.bangumi"
+        applicationId = "com.neko.bangumi"
         minSdk = 24
         targetSdk = 34
         versionCode = 7
