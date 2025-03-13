@@ -1,4 +1,4 @@
-# Bangumi for Android [![GitHub stars](https://img.shields.io/github/stars/xiaoyvyv/bangumi.svg)](https://github.com/xiaoyvyv/bangumi)
+# Bangumi for Android
 Bangumi for Android - A full-featured unofficial android native application for the bangumi.tv
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -6,8 +6,6 @@ Bangumi for Android - A full-featured unofficial android native application for 
 [![GitHub all releases](https://img.shields.io/github/downloads/xiaoyvyv/bangumi/total)](https://github.com/xiaoyvyv/bangumi)
 
 <img src="https://github.com/xiaoyvyv/bangumi/blob/main/app/src/main/ic_launcher-playstore.png?raw=true" height="200" width="200" style="display:block; border:1px solid #000;border-radius: 12px;">
-
-<a href="https://play.google.com/store/apps/details?id=com.xiaoyv.bangumi"><img alt="Get it on Google Play" height="80" src="/lib-doc/images/playstore_badge.png"></a>
 
 大家好，各位阿宅、二次元迷们，我是一位热爱动漫文化的安卓开发者，很高兴向大家宣布，我为 https://bgm.tv 这个网站打造了一款全新的 安卓原生客户端！
 
@@ -21,10 +19,6 @@ Bangumi for Android - A full-featured unofficial android native application for 
 ### 项目地址
 
 🚩Source Code: [https://github.com/xiaoyvyv/bangumi](https://github.com/xiaoyvyv/bangumi)
-
-🚩Github Release: [Github-Release](https://github.com/xiaoyvyv/bangumi/releases)
-
-🔨贡献多语言本地化🔨 [多语言本地化文档](https://docs.qq.com/sheet/DYk9hdG92dFVtTFlt?tab=koxolo)
 
 ### 功能介绍
 
@@ -56,30 +50,9 @@ Bangumi for Android - A full-featured unofficial android native application for 
 我将持续关注用户的反馈和建议，不断优化和更新客户端，为大家提供更好的服务。
 未来，我还计划加入更多有趣的功能，让这款安卓原生客户端成为每位动漫迷手机上的必备利器！
 
-**部分页面截图预览**
-
-![https://img.xiaoyv.com.cn/image/bangumi/poster-1.jpg](https://img.xiaoyv.com.cn/image/bangumi/poster-1.jpg?_)
-![https://img.xiaoyv.com.cn/image/bangumi/poster-2.jpg](https://img.xiaoyv.com.cn/image/bangumi/poster-2.jpg?_)
-![https://img.xiaoyv.com.cn/image/bangumi/poster-3.jpg](https://img.xiaoyv.com.cn/image/bangumi/poster-3.jpg?_)
-![https://img.xiaoyv.com.cn/image/bangumi/poster-4.jpg](https://img.xiaoyv.com.cn/image/bangumi/poster-4.jpg?_)
 
 最后，感谢大家的支持和厚爱，希望我的安卓原生原生客户端能为大家带来更丰富、更愉悦的Bgm体验。
 
 快来下载安装吧，一起探索 BGM.TV 的精彩世界！
 
 如果有任何建议或问题，欢迎随时与我联系，让我们共同打造这个客户端的美好未来。谢谢！
-
-### Deadline
-~~预计首个版本开发周期 3 个月 (2024年2月下旬)！~~
-
-进度超出预期，于2023年11月20多号开始开发，`2023-12-19` `v1.0.0` 发布，开发周期半个月多点，官网全功能覆盖95%
-
-开发人员：
-
-小玉: [https://bangumi.tv/user/837364](https://bangumi.tv/user/837364)
-
-QQ讨论群：
-
-[671395625](https://qm.qq.com/q/YomiSMeyUs)，欢迎大家积极讨论和反馈问题。
-
-各位姥爷喜欢的话不妨在 Github 上面点个 Star 非常感谢！
